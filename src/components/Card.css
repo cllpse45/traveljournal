@@ -1,0 +1,71 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    justify-content: center;
+    margin: 20px 40px;
+    width: 470px;
+    margin: 3rem;
+    border-radius: 50px;
+   
+}
+
+.card-img {
+    border-radius: 5px;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card-img-area{
+    margin-right: 4%;
+    width: 35%; 
+}
+
+.logo-location {
+    height: 12px;
+}
+
+.location-div {
+    display: flex;
+    align-items: center;
+
+}
+
+.location {
+    font-size: 10px;
+    margin-left: 2px;
+    margin-right: 1rem;
+}
+
+.google-maps-url {
+    color: #918E9B;
+    font-size: 10px;
+}
+
+.title {
+    width: 329px;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+.date {
+    font-size: 10px;
+    color: #2B283A;
+    font-weight: bold;
+}
+
+.description {
+    color: #2b283a;
+    font-size: 10.24px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.card-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    width: 61%;
+}

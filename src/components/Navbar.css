@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    margin-top: 1rem;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+.logo-nav {
+    height: 23px;
+    width: 23px;
+    margin-right: 0.5rem;
+}
+
+.info-nav {
+    color: white;
+    text-decoration: none;
+
+}
+
+.navbar button{
+    border-radius: 50px;
+  
+}
+
